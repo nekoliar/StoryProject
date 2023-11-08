@@ -1,2 +1,3 @@
 Hari Pertama: Anak bootcamp ketar ketir
 Hari Kedua : Kami belajar melakukan SELECT
+Hari Ketiga: Kami bingung sekali dengan konsep join
