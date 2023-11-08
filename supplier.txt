@@ -1,1 +1,2 @@
 Supplier undex sudah selesai.
+Upsert Supplier sudah selesai.
