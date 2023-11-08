@@ -3,3 +3,4 @@ Hari Kedua : Kami belajar melakukan SELECT
 Hari Ketiga: Kami bingung sekali dengan konsep join
 Hari Keempat: Berikutnya kami mencoba sub Query dan CTE.
 Hari Kelima: Lalu kami belajar struktur baru,namanya view
+Hari Keenam: Lalu kami belajar function.
